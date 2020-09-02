@@ -1,0 +1,18 @@
+{
+  "name": "@cubi/pkgdiff",
+  "version": "1.0.0",
+  "description": "diff the package.json between latest twice commits",
+  "bin": {
+    "pkgdiff": "./bin/index.js"
+  },
+  "scripts": {},
+  "keywords": [
+    "pacage.json",
+    "diff"
+  ],
+  "author": "suntopo",
+  "license": "ISC",
+  "dependencies": {
+    "shelljs": "^0.8.4"
+  }
+}
